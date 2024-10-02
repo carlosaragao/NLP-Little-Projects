@@ -1,3 +1,1 @@
-pip install transformers torch
-pip install textblob
-pip install SpeechRecognition moviepy
+pip install transformers torch textblob SpeechRecognition moviepy
